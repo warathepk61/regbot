@@ -1,1 +1,1 @@
-# regbot
+# botREG
